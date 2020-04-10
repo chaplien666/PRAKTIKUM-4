@@ -1,0 +1,18 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+}
+
+footer hr {
+  border: 2px solid #60e600;
+  margin-top: 80px;
+}
+
+footer p {
+  text-align: center;
+  color: #60e600;
+  font-size: 1.2rem;
+  padding: 30px 0;
+}
